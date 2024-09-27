@@ -2,7 +2,7 @@ import { StyleSheet, View, Text, Image, FlatList, TextInput, Button } from 'reac
 
 const DATA = [
   {
-    id: '1', descricao: 'Maçã'
+    id: '1', descricao: 'BATATA'
   },
   {
     id: '2', descricao: 'Bola de futebol'
